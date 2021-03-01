@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require_relative '../lib/show_manager.rb'
+
+ShowManager.new.user_interaction
